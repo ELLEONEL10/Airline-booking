@@ -1,8 +1,8 @@
 
 ---
 
-###Project Title
-##Airline Booking Website
+Project Title
+Airline Booking Website
 
 ##Team Members
 - Name: Fadi
@@ -14,16 +14,16 @@
 - Name:Bruna Pierobon
   Matriculation Number: 
 
-##Project Overview
+Project Overview
 This is Big Data Final project, if you are not our proofessor, you wont be inrested.
 
-##Project Structure
+Project Structure
 - Big Data Final Project.mwb: MySQL Workbench file containing the database schema.
 - Big Data Final Project.sql: SQL file containing the database creation and population scripts.
 - quiery.sql: SQL file with the queries used in the project.
 - Presentation.txt: Text file with the link to the project presentation on Canva.
 
-##Prerequisites
+Prerequisites
 Ensure you have the following software installed:
 - MySQL Server
 - MySQL Workbench
