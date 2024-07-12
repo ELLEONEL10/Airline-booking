@@ -8,11 +8,11 @@ Team Members
 - Name: Fadi
   Matriculation Number: 42524316
 - Name: Anas Zahran
-  Matriculation Number: 
+  Matriculation Number: 65636025
 - Name: Julia Bindi
-  Matriculation Number:
+  Matriculation Number: 69903271
 - Name:Bruna Pierobon
-  Matriculation Number: 
+  Matriculation Number: 69903271
 
 Project Overview
 This is Big Data Final project, if you are not our proofessor, you wont be inrested.
